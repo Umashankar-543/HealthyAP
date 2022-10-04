@@ -18,39 +18,43 @@ This is a web based application developed for health related website in AP
 ## Screenshots
 
 
- <img width="847" alt="image" src="https://user-images.githubusercontent.com/99269368/193775431-f79b5cf2-9c78-4799-b494-00a05465b487.png">
+ <img width="906" alt="image" src="https://user-images.githubusercontent.com/99269368/193844253-47c4d25e-2d72-42d4-8786-efd6368a794f.png">
+
 
   
 
 ### About Us -
 
 
-<img width="764" alt="image" src="https://user-images.githubusercontent.com/99269368/193775635-0f77d3b4-e77d-460a-94e2-5ab0b57268e6.png">
+<img width="926" alt="image" src="https://user-images.githubusercontent.com/99269368/193844511-d592c22a-01ee-4731-98c2-84cd59eddd63.png">
+
 
 
 
 ### Privacy policy -
 
 
-<img width="718" alt="image" src="https://user-images.githubusercontent.com/99269368/193775868-787af9d9-b59a-4373-b900-7f1e26e8e7f3.png">
+<img width="916" alt="image" src="https://user-images.githubusercontent.com/99269368/193844702-11233cac-39a2-474c-b8e2-8904f507b4b8.png">
+
 
 
 
 ### Disclaimer-
 
 
-<img width="739" alt="image" src="https://user-images.githubusercontent.com/99269368/193776207-87047194-d811-49df-8ad2-736018834eaa.png">
+<img width="916" alt="image" src="https://user-images.githubusercontent.com/99269368/193845034-b677479e-5059-46af-90c8-5e1f9f58b6dd.png">
+
 
 
 
 ###Posts-
 
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/99269368/193845210-cb5cd9d3-9b9c-40ae-8b22-1fcad9773a8c.png">
 
-<img width="752" alt="image" src="https://user-images.githubusercontent.com/99269368/193778065-c563ed8e-402a-4d3f-927b-c2536563aa50.png">
+<img width="917" alt="image" src="https://user-images.githubusercontent.com/99269368/193845361-a8cbdb3c-1f85-4bb1-b3cc-35017b974335.png">
 
-<img width="724" alt="image" src="https://user-images.githubusercontent.com/99269368/193778265-6c1c8efa-0700-48fc-afc1-236e017fe002.png">
+<img width="891" alt="image" src="https://user-images.githubusercontent.com/99269368/193845538-6872ddf8-4fc2-482e-ad67-aa5dfdd74e51.png">
 
-<img width="740" alt="image" src="https://user-images.githubusercontent.com/99269368/193778413-02f5a6a3-19ed-488e-a8e7-69aa3e427f06.png">
 
 
 
