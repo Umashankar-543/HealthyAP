@@ -10,7 +10,6 @@ This is a web based application developed for health related website in AP
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
-- Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
 - Has collection of many web pages including Home, About Us, categories, health topics and health related information etc.
 - User can know about health information through this website.
@@ -58,8 +57,6 @@ This is a web based application developed for health related website in AP
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- Microsoft Azure
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
