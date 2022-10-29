@@ -18,7 +18,7 @@ This is a web based application developed for health related website in AP
 ## Screenshots
 
 
--->mainpage
+-->Main page
 
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/99269368/198839052-9c87c33c-fe92-49a6-9698-651c8105fa33.png">
@@ -31,14 +31,10 @@ This is a web based application developed for health related website in AP
 
 
 
-
-
 ### Privacy policy -
 
 
 <img width="307" alt="image" src="https://user-images.githubusercontent.com/99269368/198839167-d071241c-2d5f-4c2a-ad51-dd9a6f0029aa.png">
-
-
 
 
 
@@ -60,7 +56,7 @@ This is a web based application developed for health related website in AP
 
 
 
-###Primary Azure Technology used-
+## Primary Azure Technology used-
 
 1.Microsoft Azure portal
 <img width="956" alt="image" src="https://user-images.githubusercontent.com/99269368/198835646-1359bd0e-529d-492d-822e-660e86c612ca.png">
