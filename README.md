@@ -18,15 +18,17 @@ This is a web based application developed for health related website in AP
 ## Screenshots
 
 
- <img width="906" alt="image" src="https://user-images.githubusercontent.com/99269368/193844253-47c4d25e-2d72-42d4-8786-efd6368a794f.png">
+-->mainpage
 
 
-  
+<img width="306" alt="image" src="https://user-images.githubusercontent.com/99269368/198839052-9c87c33c-fe92-49a6-9698-651c8105fa33.png">
+
 
 ### About Us -
 
 
-<img width="926" alt="image" src="https://user-images.githubusercontent.com/99269368/193844511-d592c22a-01ee-4731-98c2-84cd59eddd63.png">
+<img width="678" alt="image" src="https://user-images.githubusercontent.com/99269368/198839135-65e71adc-9c08-416d-9c8b-05457d806a3d.png">
+
 
 
 
@@ -34,7 +36,8 @@ This is a web based application developed for health related website in AP
 ### Privacy policy -
 
 
-<img width="916" alt="image" src="https://user-images.githubusercontent.com/99269368/193844702-11233cac-39a2-474c-b8e2-8904f507b4b8.png">
+<img width="307" alt="image" src="https://user-images.githubusercontent.com/99269368/198839167-d071241c-2d5f-4c2a-ad51-dd9a6f0029aa.png">
+
 
 
 
@@ -42,7 +45,7 @@ This is a web based application developed for health related website in AP
 ### Disclaimer-
 
 
-<img width="916" alt="image" src="https://user-images.githubusercontent.com/99269368/193845034-b677479e-5059-46af-90c8-5e1f9f58b6dd.png">
+<img width="443" alt="image" src="https://user-images.githubusercontent.com/99269368/198839192-7344d5cb-c236-4ff5-b903-dd2a55ae1d67.png">
 
 
 
@@ -57,10 +60,18 @@ This is a web based application developed for health related website in AP
 
 
 
+###Primary Azure Technology used-
+
+1.Microsoft Azure portal
+<img width="956" alt="image" src="https://user-images.githubusercontent.com/99269368/198835646-1359bd0e-529d-492d-822e-660e86c612ca.png">
+
+2.App Services and Web app
+<img width="960" alt="image" src="https://user-images.githubusercontent.com/99269368/198835740-97f48fc9-afd5-47a4-9f0d-da08ba5a3475.png">
+
+
 
 
 ## Tech Stack 💻
 
 - Microsoft Azure
 - HTML
-- CSS
